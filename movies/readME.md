@@ -11,7 +11,7 @@ Udacity FSND movie trailer website - project 1
 
 ### Live Demo - Movie trailer website will load in default browser
 
-- [Movie Trailer Link](https://github.com/mrsmith01/udacity_movie_project/blob/master/fresh_tomatoes.html)
+- [Movie Trailer Link](https://mrsmith01.github.io/fresh_tomatoes.html)
 
 #### Downloads
 
