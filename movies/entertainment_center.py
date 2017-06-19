@@ -16,7 +16,7 @@ out_of_time = media.Movie("Out of Time",
 
 oceans_twelve = media.Movie("Ocean's Twelve",
                             "Danny Ocean (George Clooney) and his crew of thieves have big problems. ",
-                            "http://www.imfdb.org/images/d/d9/O12-dvd.jpg",
+                            "https://www.imfdb.org/images/d/d9/O12-dvd.jpg",
                             "https://www.youtube.com/watch?v=k5CZa3X4yF4",)
 
 deja_vu = media.Movie("Deva Vu",
@@ -31,7 +31,7 @@ split = media.Movie("Split",
 
 blow = media.Movie("Blow",
                    "The story of George Jung, the man who established the American cocaine market",
-                   "http://resizing.flixster.com/T-gbdXVuwxz-C-wR6RiZ7Z0Z2x4=/800x1200/v1.bTsxMTE2NzkxNztqOzE3NDUxOzIwNDg7ODAwOzEyMDA",
+                   "https://resizing.flixster.com/T-gbdXVuwxz-C-wR6RiZ7Z0Z2x4=/800x1200/v1.bTsxMTE2NzkxNztqOzE3NDUxOzIwNDg7ODAwOzEyMDA",
                    "https://www.youtube.com/watch?v=scWkP1GdnuU",)
 
 # individual movie data order for movies array
