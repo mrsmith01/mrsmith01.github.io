@@ -15,4 +15,4 @@ Udacity FSND movie trailer website - project 1
 
 #### Downloads
 
-- [Project files](https://github.com/mrsmith01/mrsmith01.github.io.git)
+- [Project files](https://github.com/mrsmith01/mrsmith01.github.io/archive/master.zip)
