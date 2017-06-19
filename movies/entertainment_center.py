@@ -12,7 +12,7 @@ oceans_eleven = media.Movie("Ocean's Eleven",
 out_of_time = media.Movie("Out of Time",
                           "A Florida police chief must solve a vicious double homicide before he himself falls under suspicion.",
                           "https://upload.wikimedia.org/wikipedia/en/thumb/3/3a/Out_of_timeposter.jpg/220px-Out_of_timeposter.jpg",
-                          "https://www.youtube.com/watch?v=NNm0a2GKFS0",)
+                          "https://www.youtube.com/watch?v=I3GeAu_b05I",)
 
 oceans_twelve = media.Movie("Ocean's Twelve",
                             "Danny Ocean (George Clooney) and his crew of thieves have big problems. ",
