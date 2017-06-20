@@ -1,8 +1,8 @@
-# allows access to media and fresh_tomatoes files
+"""allows access to media and fresh_tomatoes files"""
 import fresh_tomatoes
 import media
 
-# content for movie class and fresh_tomatoes open movies page
+"""content for movie class and fresh_tomatoes open movies page"""
 oceans_eleven = media.Movie("Ocean's Eleven",
                             "Danny Ocean gathers a group of\
                             friends to rob a bank.",
@@ -43,8 +43,8 @@ blow = media.Movie("Blow",
                    "https://resizing.flixster.com/T-gbdXVuwxz-C-wR6RiZ7Z0Z2x4=/800x1200/v1.bTsxMTE2NzkxNztqOzE3NDUxOzIwNDg7ODAwOzEyMDA",  # noqa
                    "https://www.youtube.com/watch?v=scWkP1GdnuU",)
 
-# individual movie data order for movies array
+"""individual movie data order for movies array"""
 movies = [oceans_eleven, out_of_time, oceans_twelve, deja_vu, split, blow]
 
-# adds content to fresh tomatos movies array and generate html file
+"""adds content to fresh tomatos movies array and generate html file"""
 fresh_tomatoes.open_movies_page(movies)
