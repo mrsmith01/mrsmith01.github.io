@@ -8,7 +8,7 @@
     <!-- Bootstrap 3 -->
     <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.1.0/css/bootstrap.min.css">
     <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.1.0/css/bootstrap-theme.min.css">
-    <script src="http://code.jquery.com/jquery-1.10.1.min.js"></script>
+    <script src="https://code.jquery.com/jquery-1.10.1.min.js"></script>
     <script src="https://netdna.bootstrapcdn.com/bootstrap/3.1.0/js/bootstrap.min.js"></script>
     <style type="text/css" media="screen">
         body {
@@ -61,7 +61,7 @@
         // Start playing the video whenever the trailer modal is opened
         $(document).on('click', '.movie-tile', function (event) {
             var trailerYouTubeId = $(this).attr('data-trailer-youtube-id')
-            var sourceUrl = 'http://www.youtube.com/embed/' + trailerYouTubeId + '?autoplay=1&html5=1';
+            var sourceUrl = 'https://www.youtube.com/embed/' + trailerYouTubeId + '?autoplay=1&html5=1';
             $("#trailer-video-container").empty().append($("<iframe></iframe>", {
               'id': 'trailer-video',
               'type': 'text-html',
@@ -111,7 +111,7 @@
 </div>
 
 <div class="col-md-6 col-lg-4 movie-tile text-center" data-trailer-youtube-id="k5CZa3X4yF4" data-toggle="modal" data-target="#trailer">
-    <img src="http://www.imfdb.org/images/d/d9/O12-dvd.jpg" class="img-rounded" width="220" height="342">
+    <img src="https://www.imfdb.org/images/d/d9/O12-dvd.jpg" class="img-rounded" width="220" height="342">
     <h3 style="font-family:courier; color:red;">Ocean's Twelve</h3>
 </div>
 
@@ -126,7 +126,7 @@
 </div>
 
 <div class="col-md-6 col-lg-4 movie-tile text-center" data-trailer-youtube-id="scWkP1GdnuU" data-toggle="modal" data-target="#trailer">
-    <img src="http://resizing.flixster.com/T-gbdXVuwxz-C-wR6RiZ7Z0Z2x4=/800x1200/v1.bTsxMTE2NzkxNztqOzE3NDUxOzIwNDg7ODAwOzEyMDA" class="img-rounded" width="220" height="342">
+    <img src="https://resizing.flixster.com/T-gbdXVuwxz-C-wR6RiZ7Z0Z2x4=/800x1200/v1.bTsxMTE2NzkxNztqOzE3NDUxOzIwNDg7ODAwOzEyMDA" class="img-rounded" width="220" height="342">
     <h3 style="font-family:courier; color:red;">Blow</h3>
 </div>
 
