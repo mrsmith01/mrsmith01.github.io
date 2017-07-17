@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-=======
+
 # Udacity_Movie_Project
 
 ### Introduction : 
@@ -37,4 +36,4 @@ Project files
 - from file menu, select RUN, run module or F5
 - Fresh_tomatoes application will generate in your default web browser
 
->>>>>>> 3fb28e91ebbdeda876740fdc288612a2ed2834be
+
